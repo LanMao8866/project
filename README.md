@@ -15,8 +15,10 @@
 ## 程式運行畫面
 *初始棋盤
 ![GitHub图像](/readme_repository/1.png)
+
 *輸入座標移動
 ![GitHub图像](/readme_repository/2.png)
+
 *棋子在棋盤上移動
 ![GitHub图像](/readme_repository/3.png)
 
