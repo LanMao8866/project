@@ -9,7 +9,9 @@
 * 報告 : 黃允
 * GitHub、簡報製作 : 藍元懋
 * 除錯 : 施旭嶸
-* ## Images
+* ## 程式運行畫面
 ![GitHub图像](/readme_repository/1.png)
+![GitHub图像](/readme_repository/2.png)
+![GitHub图像](/readme_repository/3.png)
 
 
