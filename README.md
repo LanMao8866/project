@@ -13,5 +13,8 @@
 ![GitHub图像](/readme_repository/1.png)
 ![GitHub图像](/readme_repository/2.png)
 ![GitHub图像](/readme_repository/3.png)
+## 程式遊戲規則
+跳棋的棋盤有6個角，可供3人進行遊戲，每個人把各自同顏色的棋子擺滿一個角，按照規則輪流走棋，以最早旗子全部抵達並擺滿對角為優勝。對局將棋子互相間隔一個角擺放以平均分布。
+每方棋子6枚，擺成等邊三角形。
 
 
