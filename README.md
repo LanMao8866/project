@@ -9,6 +9,6 @@
 * 報告 : 黃允
 * GitHub、簡報製作 : 藍元懋
 * 除錯 : 施旭嶸
-![GitHub图像](project/readme_repository/1.png)
+![GitHub图像](/readme_repository/1.png)
 
 
