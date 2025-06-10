@@ -25,5 +25,8 @@
 ### 棋子在棋盤上移動
 ![GitHub图像](/readme_repository/3.png)
 
+### 遊戲結束
+![GitHub图像](/readme_repository/4.png)
+
 
 
